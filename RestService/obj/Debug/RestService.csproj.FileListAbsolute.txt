@@ -1,0 +1,10 @@
+C:\Users\Filip\Downloads\RestService\RestService\bin\RestService.dll
+C:\Users\Filip\Downloads\RestService\RestService\bin\RestService.pdb
+C:\Users\Filip\Downloads\RestService\RestService\bin\Hammock.ClientProfile.dll
+C:\Users\Filip\Downloads\RestService\RestService\bin\Newtonsoft.Json.dll
+C:\Users\Filip\Downloads\RestService\RestService\bin\TweetSharp.dll
+C:\Users\Filip\Downloads\RestService\RestService\bin\Newtonsoft.Json.xml
+C:\Users\Filip\Downloads\RestService\RestService\bin\TweetSharp.pdb
+C:\Users\Filip\Downloads\RestService\RestService\obj\Debug\RestService.dll
+C:\Users\Filip\Downloads\RestService\RestService\obj\Debug\RestService.pdb
+C:\Users\Filip\Downloads\RestService\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
