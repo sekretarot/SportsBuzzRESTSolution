@@ -8,3 +8,11 @@ C:\Users\Filip\Downloads\RestService\RestService\bin\TweetSharp.pdb
 C:\Users\Filip\Downloads\RestService\RestService\obj\Debug\RestService.dll
 C:\Users\Filip\Downloads\RestService\RestService\obj\Debug\RestService.pdb
 C:\Users\Filip\Downloads\RestService\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+E:\Projects\SportsBuzzRestServiceServerApp\RestService\bin\RestService.dll.config
+E:\Projects\SportsBuzzRestServiceServerApp\RestService\bin\RestService.dll
+E:\Projects\SportsBuzzRestServiceServerApp\RestService\bin\RestService.pdb
+E:\Projects\SportsBuzzRestServiceServerApp\RestService\bin\Newtonsoft.Json.xml
+E:\Projects\SportsBuzzRestServiceServerApp\RestService\bin\TweetSharp.pdb
+E:\Projects\SportsBuzzRestServiceServerApp\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+E:\Projects\SportsBuzzRestServiceServerApp\RestService\obj\Debug\RestService.dll
+E:\Projects\SportsBuzzRestServiceServerApp\RestService\obj\Debug\RestService.pdb
